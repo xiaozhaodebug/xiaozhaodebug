@@ -65,15 +65,6 @@ I'm a passionate **Embedded Systems Engineer** bridging the gap between low-leve
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiaozhaodebug&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhaodebug&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=00D26A" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
