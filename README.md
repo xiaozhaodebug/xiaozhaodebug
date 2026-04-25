@@ -83,3 +83,4 @@ I'm a passionate **Embedded Systems Engineer** bridging the gap between low-leve
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D26A,100:00A86B&height=100&section=footer" />
 </p>
+
