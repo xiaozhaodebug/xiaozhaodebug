@@ -1,0 +1,354 @@
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e9]:
+        - button "Toggle navigation" [ref=e11] [cursor=pointer]
+        - link "Homepage" [ref=e17] [cursor=pointer]:
+          - /url: /
+          - img [ref=e18]
+        - generic [ref=e20]:
+          - link "Sign in" [ref=e21] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fcheercheung
+          - button "Appearance settings" [ref=e24] [cursor=pointer]:
+            - img
+  - main [ref=e27]:
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@cheercheung"
+            - generic:
+              - strong: cheercheung
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fcheercheung
+      - generic [ref=e33]:
+        - navigation "User profile" [ref=e34]:
+          - link "Overview" [ref=e35] [cursor=pointer]:
+            - /url: /cheercheung
+            - img [ref=e36]
+            - text: Overview
+          - link "Repositories 18" [ref=e38] [cursor=pointer]:
+            - /url: /cheercheung?tab=repositories
+            - img [ref=e39]
+            - text: Repositories
+            - generic "18" [ref=e41]
+          - link "Projects" [ref=e42] [cursor=pointer]:
+            - /url: /cheercheung?tab=projects
+            - img [ref=e43]
+            - text: Projects
+          - link "Packages" [ref=e45] [cursor=pointer]:
+            - /url: /cheercheung?tab=packages
+            - img [ref=e46]
+            - text: Packages
+        - group [ref=e50]:
+          - button "More" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - img [ref=e53]
+              - generic [ref=e55]: More
+    - generic [ref=e57]:
+      - generic [ref=e59]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@cheercheung"
+            - generic:
+              - generic:
+                - strong: cheercheung
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fcheercheung
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - link "View cheercheung's full-sized avatar" [ref=e63] [cursor=pointer]:
+                - /url: https://avatars.githubusercontent.com/u/67986574?v=4
+                - img "View cheercheung's full-sized avatar" [ref=e64]
+              - generic [ref=e67]:
+                - generic [ref=e69]: 🎯
+                - generic: Focusing
+            - heading "cheer cheung cheercheung" [level=1] [ref=e71]:
+              - generic [ref=e72]: cheer cheung
+              - generic [ref=e73]: cheercheung
+          - generic [ref=e74]:
+            - link "Follow" [ref=e81] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fcheercheung
+            - generic [ref=e82]:
+              - generic [ref=e84]:
+                - text: AI influencer in TikTok. Native AI Coder without any experience of coding and product management.CMO of
+                - link "@EvoLinkAI" [ref=e85] [cursor=pointer]:
+                  - /url: https://github.com/EvoLinkAI
+              - generic [ref=e87]:
+                - link "15 followers" [ref=e88] [cursor=pointer]:
+                  - /url: https://github.com/cheercheung?tab=followers
+                  - img [ref=e89]
+                  - text: 15 followers
+                - text: ·
+                - link "34 following" [ref=e91] [cursor=pointer]:
+                  - /url: https://github.com/cheercheung?tab=following
+              - list [ref=e92]:
+                - 'listitem "Home location: hangzhou" [ref=e93]':
+                  - img [ref=e94]
+                  - generic [ref=e96]: hangzhou
+                - listitem [ref=e97]:
+                  - img [ref=e98]
+                  - generic [ref=e100]: 16:06 - same time
+                - listitem [ref=e101]:
+                  - img [ref=e102]
+                  - link "www.learnwithcheer.com" [ref=e104] [cursor=pointer]:
+                    - /url: http://www.learnwithcheer.com
+                - listitem [ref=e105]:
+                  - img "X" [ref=e106]
+                  - link "@learnwithcheer" [ref=e108] [cursor=pointer]:
+                    - /url: https://x.com/learnwithcheer
+                - listitem [ref=e109]:
+                  - img "X" [ref=e110]
+                  - link "@cheeselflin" [ref=e112] [cursor=pointer]:
+                    - /url: https://x.com/cheeselflin
+                - listitem [ref=e113]:
+                  - img [ref=e114]
+                  - link "https://evolink.ai/" [ref=e116] [cursor=pointer]:
+                    - /url: https://evolink.ai/
+          - button "Block or report user" [ref=e118] [cursor=pointer]:
+            - generic [ref=e120]: Block or report user
+      - generic [ref=e123]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - link "cheercheung" [ref=e128] [cursor=pointer]:
+              - /url: /cheercheung/cheercheung
+            - generic [ref=e129]: /
+            - text: README.md
+          - article [ref=e130]:
+            - generic [ref=e131]:
+              - heading "👋 Hello, I'm Cheer Cheung" [level=1] [ref=e132]
+              - 'link "Permalink: 👋 Hello, I''m Cheer Cheung" [ref=e133] [cursor=pointer]':
+                - /url: "#-hello-im-cheer-cheung"
+                - img [ref=e134]
+            - paragraph [ref=e136]:
+              - link "Typing SVG" [ref=e137] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/35704c736db4a24297e3d8dc454ce584a55c60d3bfe1a2410a7619eefa82a11b/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32342670617573653d3130303026636f6c6f723d4646363942342663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d4e61746976652b41492b436f6465722b2537432b4e6f2b436f64652b4261636b67726f756e643b41492b496e666c75656e6365722b6f6e2b54696b546f6b3b434d4f2b6f662b45766f4c696e6b41493b4275696c64696e672b50726f64756374732b776974682b4c4c4d73
+                - img "Typing SVG" [ref=e138]
+            - separator [ref=e139]
+            - generic [ref=e140]:
+              - heading "🚀 About Me" [level=3] [ref=e141]
+              - 'link "Permalink: 🚀 About Me" [ref=e142] [cursor=pointer]':
+                - /url: "#-about-me"
+                - img [ref=e143]
+            - paragraph [ref=e145]:
+              - text: I am a
+              - strong [ref=e146]: Native AI Coder
+              - text: who bridges the gap between imagination and implementation. Without a traditional coding background, I leverage AI to build high-performance tools and manage ecosystem growth at
+              - strong [ref=e147]: EvoLinkAI
+              - text: .
+            - list [ref=e148]:
+              - listitem [ref=e149]:
+                - text: 💡
+                - strong [ref=e150]: "Currently:"
+                - text: Scaling
+                - link "EvoLinkAI" [ref=e151] [cursor=pointer]:
+                  - /url: https://evolink.ai/
+                - text: as CMO & Building AI Agents.
+              - listitem [ref=e152]:
+                - text: 📱
+                - strong [ref=e153]: "Influencing:"
+                - text: Sharing my AI journey with a global audience on TikTok.
+              - listitem [ref=e154]:
+                - text: 🛠️
+                - strong [ref=e155]: "Favorite Stack:"
+                - text: Cursor + Windsurf + DeepSeek +
+                - link "OpenClaw" [ref=e156] [cursor=pointer]:
+                  - /url: https://github.com/EvoLinkAI/openclaw-manager
+                - text: .
+            - separator [ref=e157]
+            - generic [ref=e158]:
+              - heading "🛠 Tech & AI Ecosystem" [level=3] [ref=e159]
+              - 'link "Permalink: 🛠 Tech & AI Ecosystem" [ref=e160] [cursor=pointer]':
+                - /url: "#-tech--ai-ecosystem"
+                - img [ref=e161]
+            - paragraph
+            - paragraph [ref=e163]:
+              - link [ref=e164] [cursor=pointer]:
+                - /url: https://x.com/cheeselflin
+                - img [ref=e165]
+              - link [ref=e166] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@learnwithcheer
+                - img [ref=e167]
+              - link [ref=e168] [cursor=pointer]:
+                - /url: https://learnwithcheer.com/
+                - img [ref=e169]
+            - paragraph
+            - separator [ref=e170]
+            - generic [ref=e171]:
+              - heading "🐍 My Contribution Journey" [level=3] [ref=e172]
+              - 'link "Permalink: 🐍 My Contribution Journey" [ref=e173] [cursor=pointer]':
+                - /url: "#-my-contribution-journey"
+                - img [ref=e174]
+            - paragraph [ref=e176]:
+              - link "snake" [ref=e177] [cursor=pointer]:
+                - /url: https://raw.githubusercontent.com/cheercheung/cheercheung/output/github-contribution-grid-snake.svg
+                - img "snake" [ref=e178]
+            - separator [ref=e179]
+            - generic [ref=e180]:
+              - heading "🌟 Featured Projects" [level=3] [ref=e181]
+              - 'link "Permalink: 🌟 Featured Projects" [ref=e182] [cursor=pointer]':
+                - /url: "#-featured-projects"
+                - img [ref=e183]
+            - table [ref=e186]:
+              - rowgroup [ref=e187]:
+                - row "Project Description Tech Stack" [ref=e188]:
+                  - columnheader "Project" [ref=e189]
+                  - columnheader "Description" [ref=e190]
+                  - columnheader "Tech Stack" [ref=e191]
+              - rowgroup [ref=e192]:
+                - row "Moltbook Usecases A deep-dive collection of Moltbook use cases powered by OpenClaw, demonstrating the full potential of API aggregation. OpenClaw API Gateway" [ref=e193]:
+                  - cell "Moltbook Usecases" [ref=e194]:
+                    - strong [ref=e195]:
+                      - link "Moltbook Usecases" [ref=e196] [cursor=pointer]:
+                        - /url: https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook
+                  - cell "A deep-dive collection of Moltbook use cases powered by OpenClaw, demonstrating the full potential of API aggregation." [ref=e197]
+                  - cell "OpenClaw API Gateway" [ref=e198]:
+                    - code [ref=e199]: OpenClaw
+                    - code [ref=e200]: API Gateway
+                - row "SeeDance 2 Guide The ultimate guide for SeeDance 2, mastering AI video generation and advanced creative workflows. AI Video Workflow" [ref=e201]:
+                  - cell "SeeDance 2 Guide" [ref=e202]:
+                    - strong [ref=e203]:
+                      - link "SeeDance 2 Guide" [ref=e204] [cursor=pointer]:
+                        - /url: https://github.com/EvoLinkAI/awesome-seedance-2-guide
+                  - cell "The ultimate guide for SeeDance 2, mastering AI video generation and advanced creative workflows." [ref=e205]
+                  - cell "AI Video Workflow" [ref=e206]:
+                    - code [ref=e207]: AI Video
+                    - code [ref=e208]: Workflow
+            - paragraph [ref=e209]:
+              - link [ref=e210] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/942f0a1b349af53c6e55c060271b593bc89040ec8c15646fbfdfde855901a83d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f45766f4c696e6b41492f617765736f6d652d6f70656e636c61772d75736563617365732d6d6f6c74626f6f6b3f7374796c653d666c61742d737175617265266c6162656c3d4d6f6c74626f6f6b253230537461727326636f6c6f723d79656c6c6f77
+                - img [ref=e211]
+              - link [ref=e212] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/98e6c116a5f679fca58f3446d687360dc13d781859b6fca07868194d8a18a57e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f45766f4c696e6b41492f617765736f6d652d73656564616e63652d322d67756964653f7374796c653d666c61742d737175617265266c6162656c3d53656544616e6365253230537461727326636f6c6f723d79656c6c6f77
+                - img [ref=e213]
+        - generic [ref=e215]:
+          - heading "Popular repositories Loading" [level=2] [ref=e216]:
+            - text: Popular repositories
+            - generic [ref=e217]: Loading
+            - status
+          - list [ref=e218]:
+            - listitem [ref=e219]:
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - link "OpenClaw-Image-Generator" [ref=e224] [cursor=pointer]:
+                    - /url: /cheercheung/OpenClaw-Image-Generator
+                  - generic [ref=e226]: Public
+                - paragraph [ref=e227]:
+                  - text: Forked from
+                  - link "EvoLinkAI/OpenClaw-Image-Generator" [ref=e228] [cursor=pointer]:
+                    - /url: /EvoLinkAI/OpenClaw-Image-Generator
+                - paragraph [ref=e229]: A Claude Code skill for generating images via the Evolink Z-Image-Turbo API. Cross-platform, zero dependencies, no temp files.
+                - paragraph [ref=e230]:
+                  - generic [ref=e231]: Python
+                  - link "stars 4" [ref=e233] [cursor=pointer]:
+                    - /url: /cheercheung/OpenClaw-Image-Generator/stargazers
+                    - img "stars" [ref=e234]
+                    - text: "4"
+                  - link "forks 2" [ref=e236] [cursor=pointer]:
+                    - /url: /cheercheung/OpenClaw-Image-Generator/forks
+                    - img "forks" [ref=e237]
+                    - text: "2"
+            - listitem [ref=e239]:
+              - generic [ref=e241]:
+                - generic [ref=e242]:
+                  - link "openclaw-girlfriend" [ref=e244] [cursor=pointer]:
+                    - /url: /cheercheung/openclaw-girlfriend
+                  - generic [ref=e246]: Public
+                - paragraph [ref=e247]
+                - paragraph [ref=e248]:
+                  - generic [ref=e249]: TypeScript
+                  - link "stars 2" [ref=e251] [cursor=pointer]:
+                    - /url: /cheercheung/openclaw-girlfriend/stargazers
+                    - img "stars" [ref=e252]
+                    - text: "2"
+            - listitem [ref=e254]:
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - link "wechat-article-publisher" [ref=e259] [cursor=pointer]:
+                    - /url: /cheercheung/wechat-article-publisher
+                  - generic [ref=e261]: Public
+                - paragraph [ref=e262]: Complete workflow for publishing articles to WeChat Official Account
+                - paragraph [ref=e263]:
+                  - generic [ref=e264]: Python
+                  - link "star 1" [ref=e266] [cursor=pointer]:
+                    - /url: /cheercheung/wechat-article-publisher/stargazers
+                    - img "star" [ref=e267]
+                    - text: "1"
+                  - link "forks 2" [ref=e269] [cursor=pointer]:
+                    - /url: /cheercheung/wechat-article-publisher/forks
+                    - img "forks" [ref=e270]
+                    - text: "2"
+            - listitem [ref=e272]:
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - link "ibooks-library" [ref=e277] [cursor=pointer]:
+                    - /url: /cheercheung/ibooks-library
+                  - generic [ref=e279]: Public
+                - paragraph [ref=e280]: 自己这些年阅读的电子书，epub版本
+                - paragraph
+            - listitem [ref=e281]:
+              - generic [ref=e283]:
+                - generic [ref=e284]:
+                  - link "100viz" [ref=e286] [cursor=pointer]:
+                    - /url: /cheercheung/100viz
+                  - generic [ref=e288]: Public
+                - paragraph [ref=e289]: 储存悦悦子的可视化excel小报童下载文件
+                - paragraph
+            - listitem [ref=e290]:
+              - generic [ref=e292]:
+                - generic [ref=e293]:
+                  - link "polarareachartweb" [ref=e295] [cursor=pointer]:
+                    - /url: /cheercheung/polarareachartweb
+                  - generic [ref=e297]: Public
+                - paragraph
+                - paragraph [ref=e298]:
+                  - generic [ref=e299]: Python
+        - img "Loading" [ref=e305]
+  - contentinfo [ref=e308]:
+    - heading "Footer" [level=2] [ref=e309]
+    - generic [ref=e310]:
+      - generic [ref=e311]:
+        - link "GitHub Homepage" [ref=e312] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e313]
+        - generic [ref=e315]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e316]:
+        - heading "Footer navigation" [level=3] [ref=e317]
+        - list "Footer navigation" [ref=e318]:
+          - listitem [ref=e319]:
+            - link "Terms" [ref=e320] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e321]:
+            - link "Privacy" [ref=e322] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e323]:
+            - link "Security" [ref=e324] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e325]:
+            - link "Status" [ref=e326] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e327]:
+            - link "Community" [ref=e328] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e329]:
+            - link "Docs" [ref=e330] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e331]:
+            - link "Contact" [ref=e332] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e333]:
+            - button "Manage cookies" [ref=e335] [cursor=pointer]
+          - listitem [ref=e336]:
+            - button "Do not share my personal information" [ref=e338] [cursor=pointer]
