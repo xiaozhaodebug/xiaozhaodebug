@@ -21,7 +21,7 @@ I'm a passionate **Embedded Systems Engineer** bridging the gap between low-leve
 
 - 🔧 **Currently working on:** AUTOSAR CAN Communication Stack & UDS Diagnostics for STM32
 - 🌱 **Exploring:** Web3 DApps, Real-time Monitoring Dashboards, and Developer Tools
-- 🛠️ **Favorite Stack:** C/C++ · TypeScript · Python · AUTOSAR
+- 🛠️ **Favorite Stack:** C/C++ · TypeScript · Python · AUTOSAR · AI
 - 💬 **Ask me about:** Embedded protocols, CAN bus, Markdown tools, or anything code!
 
 ---
