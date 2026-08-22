@@ -51,20 +51,6 @@ I'm a passionate **Embedded Systems Engineer** bridging the gap between low-leve
   </picture>
 </p>
 
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| **[STM32_AUTOSAR](https://github.com/xiaozhaodebug/STM32_AUTOSAR)** | STM32F407 AUTOSAR CAN Communication Stack with DBC Generator and UDS Diagnostics | `C` `AUTOSAR` `CAN` | ![Stars](https://img.shields.io/github/stars/xiaozhaodebug/STM32_AUTOSAR?style=flat-square&color=yellow) |
-| **[public_code](https://github.com/xiaozhaodebug/public_code)** | UDS Protocol Stack for embedded systems (S32K144 & STM32F4) | `C` `Embedded` `UDS` | ![Stars](https://img.shields.io/github/stars/xiaozhaodebug/public_code?style=flat-square&color=yellow) |
-| **[md2wechat](https://github.com/xiaozhaodebug/md2wechat)** | 📝 Markdown to WeChat formatter - Obsidian support, one-click copy | `HTML` `JavaScript` | ![Stars](https://img.shields.io/github/stars/xiaozhaodebug/md2wechat?style=flat-square&color=yellow) |
-| **[situation-monitor](https://github.com/xiaozhaodebug/situation-monitor)** | Real-time dashboard for monitoring global news, markets, and more | `TypeScript` `React` | ![Stars](https://img.shields.io/github/stars/xiaozhaodebug/situation-monitor?style=flat-square&color=yellow) |
-| **[tool](https://github.com/xiaozhaodebug/tool)** | Handy developer tools collection | `C++` `Qt` | ![Stars](https://img.shields.io/github/stars/xiaozhaodebug/tool?style=flat-square&color=yellow) |
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
